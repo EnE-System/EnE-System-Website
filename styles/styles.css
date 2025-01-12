@@ -176,7 +176,7 @@ body {
 .about-us-heading {
     font-size: 2.5rem;
     font-weight: 700;
-    color: #0e1f32
+    color:  #1459a1
 }
 
 .about-us-description {
@@ -189,7 +189,7 @@ body {
     font-size: 1.5rem;
     font-weight: 700;
     margin-top: 30px;
-    color: #0e1f32
+    color:  #1459a1
 }
 
 .why-us-bar {
@@ -242,7 +242,7 @@ footer {
 .products-heading {
     font-size: 2rem;
     margin-bottom: 2rem;
-    color:  #0e1f32
+    color:   #1459a1
 }
 
 .grid-container {
@@ -270,7 +270,7 @@ footer {
 
 .card h2 {
     font-size: 1.25rem;
-    color:  #0e1f32;
+    color:   #1459a1;
     margin-bottom: 1rem
 }
 
@@ -389,12 +389,12 @@ footer {
 .section-title {
     text-align: center;
     font-size: 2rem;
-    color:  #0e1f32;
+    color:   #1459a1;
     margin-bottom: 2rem
 }
 
 h3 {
-    color: #333;
+    color:  #1459a1;
     font-size: 1.25rem
 }
 
